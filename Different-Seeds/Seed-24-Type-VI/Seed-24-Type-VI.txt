@@ -1,1 +1,1 @@
-
+When they tested this Type-VI Seed 24, the people from Fukuoka MQ took 11 days 12 hours 12 minutes on a 4 × AMD EPYC 7763 using the HDF4 algorithm (F4 with the Hilbert-driven algorithm) and MF4 (F4 with the Mutant algorithm) according to the original sources: https://www.mqchallenge.org/details/details_VI_20251016_2.html, but my solver took only 0.0968 seconds without modifying anything.
